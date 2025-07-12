@@ -2,7 +2,7 @@
   "version": "5.9",
   "webRoot": "/minecraft-map/",
   "useCookies": true,
-  "defaultToFlatView": false,
+  "defaultToFlatView": true,
   "resolutionDefault": 1.0,
   "minZoomDistance": 5,
   "maxZoomDistance": 100000,
